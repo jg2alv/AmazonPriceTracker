@@ -23,7 +23,7 @@ python3 app.py readonly
 
 This command requires a configuration file containing the expected `items` history structure.
 
-## 5. License
+## 4. License
 
 MIT. See `LICENSE`.
 
